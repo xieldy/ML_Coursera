@@ -41,7 +41,7 @@ hold on;
 xlabel('Exam 1 score')
 ylabel('Exam 2 score')
 
-% Specified in plot order
+% Specifiot order
 legend('Admitted', 'Not admitted')
 hold off;
 
